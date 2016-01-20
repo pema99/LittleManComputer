@@ -1,0 +1,5 @@
+/Users/pema99/Projects/LittleManPema/LittleManPema/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/pema99/Projects/LittleManPema/LittleManPema/bin/Debug/LittleManPema.exe.mdb
+/Users/pema99/Projects/LittleManPema/LittleManPema/bin/Debug/LittleManPema.exe
+/Users/pema99/Projects/LittleManPema/LittleManPema/obj/x86/Debug/LittleManPema.exe
+/Users/pema99/Projects/LittleManPema/LittleManPema/obj/x86/Debug/LittleManPema.exe.mdb

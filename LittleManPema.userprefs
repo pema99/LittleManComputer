@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="LittleManPema/LittleManPema.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LittleManPema/Program.cs">
+    <Files>
+      <File FileName="LittleManPema/Program.cs" Line="10" Column="26" />
+      <File FileName="LittleManPema/LittleManComputer.cs" Line="60" Column="77" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

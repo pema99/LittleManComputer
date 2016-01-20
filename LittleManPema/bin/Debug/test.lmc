@@ -1,0 +1,6 @@
+INP
+STA 99
+INP
+SUB 99
+OUT
+HLT
